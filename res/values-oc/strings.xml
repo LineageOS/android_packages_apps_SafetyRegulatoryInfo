@@ -15,5 +15,4 @@
 -->
 <resources>
     <!-- Name of the app, which shows the safety and regulatory manual [CHAR LIMIT=50] -->
-    <string name="app_name">Llawlyfr diogelwch a rheoleiddiol</string>
 </resources>
